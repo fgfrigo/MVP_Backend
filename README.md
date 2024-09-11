@@ -25,6 +25,7 @@ Esta é uma API simples de gerenciamento de usuários que utiliza Flask e SQLite
 
 3. Instale as dependências:
    ```bash
+   pip install pysqlite3
    pip install -r requirements.txt
    ```
 
