@@ -146,6 +146,8 @@ Você pode testar os endpoints usando as instruções `cURL` fornecidas acima. C
 - Certifique-se de que o banco de dados SQLite (`database.db`) é criado corretamente ao rodar o servidor pela primeira vez.
 - Se precisar reiniciar o banco de dados, delete o arquivo `database.db` e reinicie o servidor, que recriará a tabela de usuários.
 
+* [URL Repositorio frontend](https://github.com/fgfrigo/MVP_FrontEnd)
+
 ---
 
 @ffrigo 2024
